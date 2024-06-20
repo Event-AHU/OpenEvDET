@@ -19,4 +19,4 @@
 * [[Pedestrian Detection Dataset](https://www.frontiersin.org/articles/10.3389/fnbot.2019.00038/full)]
   Neuromorphic Vision Datasets for Pedestrian Detection, Action Recognition, and Fall Detection
 
-*[[N-Caltech101](https://www.garrickorchard.com/datasets/n-caltech101)]
+* [[N-Caltech101](https://www.garrickorchard.com/datasets/n-caltech101)]
