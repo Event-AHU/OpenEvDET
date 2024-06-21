@@ -22,5 +22,5 @@
 * [[N-Caltech101](https://www.garrickorchard.com/datasets/n-caltech101)]
 Converting Static Image Datasets to Spiking Neuromorphic Datasets Using Saccades
 
-*[[COCO](https://cocodataset.org/)]
+* [[COCO](https://cocodataset.org/)]
 Microsoft COCO: Common Objects in Context
