@@ -6,7 +6,7 @@
 * **State Space Models for Event Cameras**, CVPR2024 
   [[Link](https://openaccess.thecvf.com/content/CVPR2024/papers/Zubic_State_Space_Models_for_Event_Cameras_CVPR_2024_paper.pdf)]
   [[Code](https://github.com/uzh-rpg/ssms_event_cameras)]
-  [[Code](-)]
+  [[-]]
 
 ### Other Event-based Detection Datasets 
 
