@@ -34,7 +34,7 @@
    [[Link](https://arxiv.org/pdf/2304.13455)]
    [[Code](https://github.com/uzh-rpg/event_representation_study)]
 
-* ** Recurrent vision transformers for object detection with event cameras**, CVPR2023,
+* **Recurrent vision transformers for object detection with event cameras**, CVPR2023,
    [[Link](https://arxiv.org/pdf/2212.05598)]
    [[Code](https://github.com/uzh-rpg/RVT)]
 
@@ -70,7 +70,7 @@
 * **Asynchronous Spatio-Temporal Memory Network for Continuous Event-Based Object Detection**, IEEE TIP2022,
    [[Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9749022)]
 
-* ** Fusion-Based Feature Attention Gate Component for Vehicle Detection Based on Event Camera**, IEEE Sensors2021,
+* **Fusion-Based Feature Attention Gate Component for Vehicle Detection Based on Event Camera**, IEEE Sensors2021,
    [[Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9546775)]
 
 * **A Novel Visual Object Detection and Distance Estimation Method for HDR Scenes based on Event Camera**, ICCC2021,
