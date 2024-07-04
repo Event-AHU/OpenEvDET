@@ -104,6 +104,11 @@
 
 ### Other Event-based Detection Datasets 
 
+
+* [CVPR 2024] **eTraM: Event-based Traffic Monitoring Dataset**,
+  [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Verma_eTraM_Event-based_Traffic_Monitoring_Dataset_CVPR_2024_paper.pdf)]
+  [[Code](https://github.com/eventbasedvision/eTraM)] 
+
 * [[DSEC-Detection](https://github.com/uzh-rpg/dsec-det)]
   Low Latency Automotive Vision with Event Cameras, Nature 2024;
   DSEC: A Stereo Event Camera Dataset for Driving Scenarios, IEEE RAL 2021
