@@ -1,7 +1,7 @@
-# ESO_Detection
+## ESO_Detection
 
 
-### Event-based Detection Methods
+### Event-based Detection Methods 
 
 * **State Space Models for Event Cameras**, CVPR2024 
   [[Link](https://openaccess.thecvf.com/content/CVPR2024/papers/Zubic_State_Space_Models_for_Event_Cameras_CVPR_2024_paper.pdf)]
@@ -102,9 +102,13 @@
 
 
 
-### Other Event-based Detection Datasets 
+### Event-based Detection Benchmark Datasets 
 
 
+* [CVPR 2024 Workshop, arXiv:2404.10540] **SEVD: Synthetic Event-based Vision Dataset for Ego and Fixed Traffic Perception**,
+  Manideep Reddy Aliminati, Bharatesh Chakravarthi, Aayush Atul Verma, Arpitsinh Vaghela, Hua Wei, Xuesong Zhou, Yezhou Yang 
+  [[Paper](https://arxiv.org/abs/2404.10540)] 
+  
 * [CVPR 2024] **eTraM: Event-based Traffic Monitoring Dataset**,
   [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Verma_eTraM_Event-based_Traffic_Monitoring_Dataset_CVPR_2024_paper.pdf)]
   [[Code](https://github.com/eventbasedvision/eTraM)] 
