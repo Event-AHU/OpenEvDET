@@ -1,6 +1,14 @@
 ## ESO_Detection
 
 
+
+### Surveys and Reviews 
+
+* [arXiv:2407.04277] **Research, Applications and Prospects of Event-Based Pedestrian Detection: A Survey**, Han Wang, Yuman Nie, Yun Li, Hongjie Liu, Min Liu, Wen Cheng, Yaoxiong Wang
+  [[Paper](https://arxiv.org/abs/2407.04277)]
+  [[Code](https://github.com/TristanWH/DVS4PD)] 
+
+
 ### Event-based Detection Methods 
 
 * **State Space Models for Event Cameras**, CVPR2024 
