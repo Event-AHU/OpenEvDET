@@ -11,6 +11,12 @@
 
 ### Event-based Detection Methods 
 
+
+* [ECCV 2024] **Embracing Events and Frames with Hierarchical Feature Refinement Network for Object Detection**,
+  Hu Cao, Zehua Zhang, Yan Xia, Xinyi Li, Jiahao Xia, Guang Chen, Alois Knoll
+  [[Paper](https://arxiv.org/abs/2407.12582)]
+  [[Code](https://github.com/HuCaoFighting/FRN)]
+  
 * **State Space Models for Event Cameras**, CVPR2024 
   [[Link](https://openaccess.thecvf.com/content/CVPR2024/papers/Zubic_State_Space_Models_for_Event_Cameras_CVPR_2024_paper.pdf)]
   [[Code](https://github.com/uzh-rpg/ssms_event_cameras)]
