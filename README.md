@@ -25,6 +25,11 @@
    [[Link](https://arxiv.org/pdf/2311.17286)]
    [[Code](https://github.com/Wuziyi616/LEOD)]
 
+* **SFOD: Spiking Fusion Object Detector**, CVPR2024,
+[[Link](https://arxiv.org/abs/2403.15192)]
+[[Code](https://github.com/yimeng-fan/SFOD)]
+
+
 * **Detecting Every Object from Events**, arXiv2024,
    [[Link](https://arxiv.org/pdf/2404.05285)]
    [[Code](https://github.com/Hatins/DEOE)]
