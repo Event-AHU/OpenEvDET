@@ -156,3 +156,18 @@ Microsoft COCO: Common Objects in Context
 
 * [[PKU-DDD17-CAR](http://sensors.ini.uzh.ch/databases.html)]
   DDD17: End-To-End DAVIS Driving Dataset
+
+
+
+
+
+### High-Definition Processing Methods 
+
+* [arXiv:2407.20228] **FlexAttention for Efficient High-Resolution Vision-Language Models**, Junyan Li, Delin Chen, Tianle Cai, Peihao Chen, Yining Hong, Zhenfang Chen, Yikang Shen, Chuang Gan 
+  [[Paper](https://arxiv.org/abs/2407.20228)]
+  [[Project](https://vis-www.cs.umass.edu/flexattention/)]
+  [[Code](https://github.com/UMass-Foundation-Model/FlexAttention)] 
+
+* 
+
+
