@@ -9,8 +9,17 @@
   [[Code](https://github.com/TristanWH/DVS4PD)] 
 
 
+
+
+
+
 ### Event-based Detection Methods 
 
+
+* [arXiv:2407.20446] **MEVDT: Multi-Modal Event-Based Vehicle Detection and Tracking Dataset**, 
+  Zaid A. El Shair, Samir A. Rawashdeh
+  [[Paper](https://arxiv.org/abs/2407.20446)]
+  [[Dataset](https://deepblue.lib.umich.edu/data/concern/data_sets/bc386k045)] 
 
 * [ECCV 2024] **Embracing Events and Frames with Hierarchical Feature Refinement Network for Object Detection**,
   Hu Cao, Zehua Zhang, Yan Xia, Xinyi Li, Jiahao Xia, Guang Chen, Alois Knoll
@@ -26,9 +35,8 @@
    [[Code](https://github.com/Wuziyi616/LEOD)]
 
 * **SFOD: Spiking Fusion Object Detector**, CVPR2024,
-[[Link](https://arxiv.org/abs/2403.15192)]
-[[Code](https://github.com/yimeng-fan/SFOD)]
-
+  [[Link](https://arxiv.org/abs/2403.15192)]
+  [[Code](https://github.com/yimeng-fan/SFOD)]
 
 * **Detecting Every Object from Events**, arXiv2024,
    [[Link](https://arxiv.org/pdf/2404.05285)]
