@@ -16,6 +16,11 @@
 ### Event-based Detection Methods 
 
 
+* [ECCV2024] **Integer-Valued Training and Spike-Driven Inference Spiking Neural Network for High-performance and Energy-efficient Object Detection**, arXiv:2407.20708, 
+  Xinhao Luo, Man Yao, Yuhong Chou, Bo Xu, Guoqi Li. 
+  [[Paper](https://arxiv.org/abs/2407.20708)]
+  [[Code](https://github.com/BICLab/SpikeYOLO)] 
+  
 * [arXiv:2407.20446] **MEVDT: Multi-Modal Event-Based Vehicle Detection and Tracking Dataset**, 
   Zaid A. El Shair, Samir A. Rawashdeh
   [[Paper](https://arxiv.org/abs/2407.20446)]
