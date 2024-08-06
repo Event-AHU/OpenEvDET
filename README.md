@@ -16,6 +16,11 @@
 ### Event-based Detection Methods 
 
 
+* [AAAI 2023] Wang, Dongsheng, et al. "**Dual memory aggregation network for event-based object detection with learnable representation.**"
+  Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 37. No. 2. 2023.
+  [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/25346)]
+  [[Code](https://github.com/wds320/AAAI_Event_based_detection)] 
+
 * [ECCV2024] **Integer-Valued Training and Spike-Driven Inference Spiking Neural Network for High-performance and Energy-efficient Object Detection**, arXiv:2407.20708, 
   Xinhao Luo, Man Yao, Yuhong Chou, Bo Xu, Guoqi Li. 
   [[Paper](https://arxiv.org/abs/2407.20708)]
