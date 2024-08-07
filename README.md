@@ -16,6 +16,10 @@
 ### Event-based Detection Methods 
 
 
+* [IEEE Sensors Journal] Guo, Zhaoxuan, et al. "**Spatio-Temporal Aggregation Transformer for Object Detection With Neuromorphic Vision Sensors.**" IEEE Sensors Journal (2024).
+  [[Paper](https://ieeexplore.ieee.org/abstract/document/10516298)]
+  [[Code](https://github.com/TJU-guozhaoxuan/STAT)] 
+  
 * [AAAI 2023] Wang, Dongsheng, et al. "**Dual memory aggregation network for event-based object detection with learnable representation.**"
   Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 37. No. 2. 2023.
   [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/25346)]
