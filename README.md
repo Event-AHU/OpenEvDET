@@ -16,6 +16,11 @@
 ### Event-based Detection Methods 
 
 
+* [Nature 2024] Gehrig, Daniel, and Davide Scaramuzza. "**Low-latency automotive vision with event cameras.**" Nature 629.8014 (2024): 1034-1040.
+  [[Paper](https://www.nature.com/articles/s41586-024-07409-w)]
+  [[Code](https://github.com/uzh-rpg/dagr)]
+  [[Dataset](https://github.com/uzh-rpg/dsec-det)] 
+  
 * [IEEE Sensors Journal] Guo, Zhaoxuan, et al. "**Spatio-Temporal Aggregation Transformer for Object Detection With Neuromorphic Vision Sensors.**" IEEE Sensors Journal (2024).
   [[Paper](https://ieeexplore.ieee.org/abstract/document/10516298)]
   [[Code](https://github.com/TJU-guozhaoxuan/STAT)] 
