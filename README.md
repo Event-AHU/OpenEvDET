@@ -19,10 +19,6 @@
 * [arXiv:2405.14458] Wang, Ao, et al. "**Yolov10: Real-time end-to-end object detection.**" arXiv preprint arXiv:2405.14458 (2024).
   [[Paper](https://arxiv.org/abs/2405.14458)]
   [[Code](https://github.com/THU-MIG/yolov10)] 
-  
-* [ICCV2023]**Label-Free Event-based Object Recognition via Joint Learning with Image Reconstruction from Events**
-  [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Cho_Label-Free_Event-based_Object_Recognition_via_Joint_Learning_with_Image_Reconstruction_ICCV_2023_paper.pdf)]
-  [[Code](https://github.com/)]
 
 * [Nature 2024] Gehrig, Daniel, and Davide Scaramuzza. "**Low-latency automotive vision with event cameras.**" Nature 629.8014 (2024): 1034-1040.
   [[Paper](https://www.nature.com/articles/s41586-024-07409-w)]
@@ -53,7 +49,7 @@
   [[Paper](https://arxiv.org/abs/2407.12582)]
   [[Code](https://github.com/HuCaoFighting/FRN)]
   
-* [CVPR2024] **State Space Models for Event Cameras**,  
+* [CVPR2024] **State Space Models for Event Cameras**,
   [[Link](https://openaccess.thecvf.com/content/CVPR2024/papers/Zubic_State_Space_Models_for_Event_Cameras_CVPR_2024_paper.pdf)]
   [[Code](https://github.com/uzh-rpg/ssms_event_cameras)]
 
