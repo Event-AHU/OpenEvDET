@@ -15,6 +15,11 @@
 
 ### Event-based Detection Methods 
 
+
+* [arXiv:2405.14458] Wang, Ao, et al. "**Yolov10: Real-time end-to-end object detection.**" arXiv preprint arXiv:2405.14458 (2024).
+  [[Paper](https://arxiv.org/abs/2405.14458)]
+  [[Code](https://github.com/THU-MIG/yolov10)] 
+  
 * [ICCV2023]**Label-Free Event-based Object Recognition via Joint Learning with Image Reconstruction from Events**
   [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Cho_Label-Free_Event-based_Object_Recognition_via_Joint_Learning_with_Image_Reconstruction_ICCV_2023_paper.pdf)]
   [[Code](https://github.com/)]
