@@ -53,105 +53,99 @@
   [[Paper](https://arxiv.org/abs/2407.12582)]
   [[Code](https://github.com/HuCaoFighting/FRN)]
   
-* **State Space Models for Event Cameras**, CVPR2024 
+* [CVPR2024] **State Space Models for Event Cameras**,  
   [[Link](https://openaccess.thecvf.com/content/CVPR2024/papers/Zubic_State_Space_Models_for_Event_Cameras_CVPR_2024_paper.pdf)]
   [[Code](https://github.com/uzh-rpg/ssms_event_cameras)]
 
-* **LEOD:Label-Efficient Object Detection for Event Cameras**, CVPR2024,
+* [CVPR2024] **LEOD:Label-Efficient Object Detection for Event Cameras**,
    [[Link](https://arxiv.org/pdf/2311.17286)]
    [[Code](https://github.com/Wuziyi616/LEOD)]
 
-* **SFOD: Spiking Fusion Object Detector**, CVPR2024,
+* [CVPR2024] **SFOD: Spiking Fusion Object Detector**,
   [[Link](https://arxiv.org/abs/2403.15192)]
   [[Code](https://github.com/yimeng-fan/SFOD)]
 
-* **Detecting Every Object from Events**, arXiv2024,
+* [arXiv2024] **Detecting Every Object from Events**,
    [[Link](https://arxiv.org/pdf/2404.05285)]
    [[Code](https://github.com/Hatins/DEOE)]
 
-* **Scene Adaptive SparseTransformer for Event-based Object Detection**, CVPR2024,
+* [CVPR2024] **Scene Adaptive SparseTransformer for Event-based Object Detection**,
    [[Link](https://arxiv.org/pdf/2404.01882)]
    [[Code](https://github.com/Peterande/SAST)]
 
-* **Tracking-Assisted Object Detection with Event Cameras**, arXiv2024,
+* [arXiv2024] **Tracking-Assisted Object Detection with Event Cameras**,
    [[Link](https://arxiv.org/pdf/2403.18330)]
 
-* **SFOD: Spiking Fusion Object Detector**, CVPR2024,
+* [CVPR2024] **SFOD: Spiking Fusion Object Detector**, 
    [[Link](https://arxiv.org/pdf/2403.15192)]
    [[Code](https://github.com/yimeng-fan/SFOD)]
 
 
-* **Motion Robust High-Speed Light-Weighted Object Detection With Event Camera**, IEEE TIM2023,
+* [IEEE TIM2023] **Motion Robust High-Speed Light-Weighted Object Detection With Event Camera**, 
    [[Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10109007)]
    [[Code](https://github.com/HarmoniaLeo/FRLWEvD.)]
 
-* **From chaos comes order: Ordering event representations for object recognition and detection**, ICCV2023,
+* [ICCV2023] **From chaos comes order: Ordering event representations for object recognition and detection**, 
    [[Link](https://arxiv.org/pdf/2304.13455)]
    [[Code](https://github.com/uzh-rpg/event_representation_study)]
 
-* **Recurrent vision transformers for object detection with event cameras**, CVPR2023,
+* [CVPR2023] **Recurrent vision transformers for object detection with event cameras**, 
    [[Link](https://arxiv.org/pdf/2212.05598)]
    [[Code](https://github.com/uzh-rpg/RVT)]
 
-* **GET: Group Event Transformer for Event-Based Vision**, ICCV2023,
+* [ICCV2023] **GET: Group Event Transformer for Event-Based Vision**, 
    [[Link](https://arxiv.org/pdf/2310.02642)]
    [[Code](https://github.com/Peterande/GET-Group-Event-Transformer)]
 
-* **Hierarchical Neural Memory Network for Low Latency Event Processing**, CVPR2023,
+* [CVPR2023] **Hierarchical Neural Memory Network for Low Latency Event Processing**,
    [[Link](https://arxiv.org/pdf/2305.17852)]
    [[Code](https://hamarh.github.io/hmnet/)]
 
-* **Better and Faster: Adaptive Event Conversion for Event-Based Object Detection**, AAAI2023,
+* [AAAI2023] **Better and Faster: Adaptive Event Conversion for Event-Based Object Detection**, 
    [[Link](https://ojs.aaai.org/index.php/AAAI/article/view/25298)]
 
-* **Deep Directly-Trained Spiking Neural Networks for Object Detection**, CVPR2023,
+* [CVPR2023] **Deep Directly-Trained Spiking Neural Networks for Object Detection**, 
    [[Link](https://arxiv.org/pdf/2307.11411)]
    [[Code](https://github.com/BICLab/EMS-YOLO)]
 
-* **Fusing Event-based and RGB camera for Robust Object Detection in Adverse Conditions**, ICRA2022,
+* [ICRA2022] **Fusing Event-based and RGB camera for Robust Object Detection in Adverse Conditions**, 
    [[Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9812059)]
 
-* **AEGNN:Asynchronous Event-based Graph Neural Networks**, CVPR2022,
+* [CVPR2022] **AEGNN:Asynchronous Event-based Graph Neural Networks**, 
    [[Link](https://arxiv.org/pdf/2203.17149)]
    [[Code](https://uzh-rpg.github.io/aegnn/)]
 
-* **Object Detection with Spiking Neural Networks on Automotive Event Data**, IJCNN2022,
+* [IJCNN2022] **Object Detection with Spiking Neural Networks on Automotive Event Data**, 
    [[Link](https://arxiv.org/pdf/2205.04339)]
 
-* **Swin Transformer V2: Scaling Up Capacity and Resolution**, CVPR2022,
+* [CVPR2022] **Swin Transformer V2: Scaling Up Capacity and Resolution**, 
    [[Link](https://arxiv.org/pdf/2111.09883)]
    [[Code](https://github.com/microsoft/Swin-Transformer)]
 
-* **Asynchronous Spatio-Temporal Memory Network for Continuous Event-Based Object Detection**, IEEE TIP2022,
+* [IEEE TIP2022] **Asynchronous Spatio-Temporal Memory Network for Continuous Event-Based Object Detection**, 
    [[Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9749022)]
 
-* **Fusion-Based Feature Attention Gate Component for Vehicle Detection Based on Event Camera**, IEEE Sensors2021,
+* [IEEE Sensors2021] **Fusion-Based Feature Attention Gate Component for Vehicle Detection Based on Event Camera**, 
    [[Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9546775)]
 
-* **A Novel Visual Object Detection and Distance Estimation Method for HDR Scenes based on Event Camera**, ICCC2021,
-   [[Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9674426)]
-
-* **Event-based Object Detection with Lightweight Spatial Attention Mechanis**, ICARM2021,
+* [ICARM2021] **Event-based Object Detection with Lightweight Spatial Attention Mechanis**, 
    [[Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9536146)]
 
-* **Learning to Detect Objects with a 1 Megapixel Event Camera**, NeurIPS2020,
+* [NeurIPS2020] **Learning to Detect Objects with a 1 Megapixel Event Camera**, 
    [[Link](https://proceedings.neurips.cc/paper_files/paper/2020/file/c213877427b46fa96cff6c39e837ccee-Paper.pdf)]
 
-* **Event-based Asynchronous Sparse Convolutional Networks**, ECCV2020,
+* [ECCV2020] **Event-based Asynchronous Sparse Convolutional Networks**,
    [[Link](https://arxiv.org/pdf/2003.09148)]
    [[Code](https://github.com/uzh-rpg/rpg_asynet)]
 
-* **Asynchronous Convolutional Networks for Object Detection in Neuromorphic Cameras**, CVPR2019,
+* [CVPR2019] **Asynchronous Convolutional Networks for Object Detection in Neuromorphic Cameras**, 
    [[Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9025409)]
    [[Code](https://github.com/marcocannici/async-ev-cnn)]
 
-* **Mixed Frame-/Event-Driven Fast Pedestrian Detection**, ICRA2019,
+* [ICRA2019] **Mixed Frame-/Event-Driven Fast Pedestrian Detection**, 
    [[Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8793924)]
 
-* **Towards Event-driven Object Detection with Off-the-shelf Deep Learning**, IROS2018,
-   [[Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8594119)]
-
-* **Pseudo-labels for Supervised Learning on Dynamic Vision Sensor Data, Applied to Object Detection under Ego-motion**, CVPR2018,
+* [CVPR2018] **Pseudo-labels for Supervised Learning on Dynamic Vision Sensor Data, Applied to Object Detection under Ego-motion**, 
    [[Link](https://arxiv.org/pdf/1709.09323)]
 
 
