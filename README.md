@@ -117,9 +117,6 @@
 * [IJCNN2022] **Object Detection with Spiking Neural Networks on Automotive Event Data**, 
    [[Link](https://arxiv.org/pdf/2205.04339)]
 
-* [CVPR2022] **Swin Transformer V2: Scaling Up Capacity and Resolution**, 
-   [[Link](https://arxiv.org/pdf/2111.09883)]
-   [[Code](https://github.com/microsoft/Swin-Transformer)]
 
 * [IEEE TIP2022] **Asynchronous Spatio-Temporal Memory Network for Continuous Event-Based Object Detection**, 
    [[Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9749022)]
