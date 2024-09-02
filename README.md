@@ -76,6 +76,9 @@
    [[Link](https://arxiv.org/pdf/2403.15192)]
    [[Code](https://github.com/yimeng-fan/SFOD)]
 
+* [WACV2023] **Revisiting Token Pruning for Object Detection and Instance Segmentation**,
+   [[Link](https://arxiv.org/pdf/2306.07050)]
+   [[Code](https://github.com/uzh-rpg/svit/)]
 
 * [IEEE TIM2023] **Motion Robust High-Speed Light-Weighted Object Detection With Event Camera**, 
    [[Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10109007)]
