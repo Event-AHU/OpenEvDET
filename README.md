@@ -114,10 +114,10 @@
    [[Link](https://arxiv.org/pdf/2203.17149)]
    [[Code](https://uzh-rpg.github.io/aegnn/)]
 
-* [IJCNN2022] **Object Detection with Spiking Neural Networks on Automotive Event Data**, 
-   [[Link](https://arxiv.org/pdf/2205.04339)]
-
-
+* [IJCNN2022] **Object Detection with Spiking Neural Networks on Automotive Event Data**,
+  [[Paper](https://arxiv.org/pdf/2205.04339)]
+  [[Code](https://github.com/loiccordone/object-detection-with-spiking-neural-networks)]
+  
 * [IEEE TIP2022] **Asynchronous Spatio-Temporal Memory Network for Continuous Event-Based Object Detection**, 
    [[Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9749022)]
 
