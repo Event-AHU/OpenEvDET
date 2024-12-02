@@ -16,6 +16,9 @@
 ### Event-based Detection Methods 
 
 
+* [arXiv:2411.18658] HDI-Former: Hybrid Dynamic Interaction ANN-SNN Transformer for Object Detection Using Frames and Events, Dianze Li, Jianing Li, Xu Liu, Zhaokun Zhou, Xiaopeng Fan, Yonghong Tian 
+  [[Paper](https://arxiv.org/abs/2411.18658)] 
+  
 * [arXiv:2405.14458] Wang, Ao, et al. "**Yolov10: Real-time end-to-end object detection.**" arXiv preprint arXiv:2405.14458 (2024).
   [[Paper](https://arxiv.org/abs/2405.14458)]
   [[Code](https://github.com/THU-MIG/yolov10)] 
