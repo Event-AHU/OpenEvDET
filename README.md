@@ -1,5 +1,8 @@
 ## :dart:  Repository for Event Stream-based Object Detection 
 
+<p align="center">
+  <img src="https://github.com/Event-AHU/OpenEvDET/blob/main/EventDET_logo.png" alt="EventDET_logo" width="400"/>
+</p>
 
 ## :dart:  Update Logs 
 
