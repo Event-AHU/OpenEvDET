@@ -7,21 +7,29 @@ Object detection in event streams has emerged as a cutting-edge research area, d
 
 
 
+### Framework 
+<p align="center">
+  <img src="https://github.com/Event-AHU/OpenEvDET/blob/main/EvDET200K/figures/framework.png" alt="benchmarkResults.png" width="800"/>
+</p>
+
+
+### Visualization of Dataset 
 <p align="center">
   <img src="https://github.com/Event-AHU/OpenEvDET/blob/main/EvDET200K/figures/dataset_visualization.jpg" alt="dataset_visualization.jpg" width="800"/>  
 </p>
 
 
+
+### Comparison of Existing Event-based Benchmark Dataset  
 <p align="center">
   <img src="https://github.com/Event-AHU/OpenEvDET/blob/main/EvDET200K/figures/benchmark_dataset_compare.png" width="800"/>
 </p>
 
 
+### Benchmark Results 
 <p align="center">
   <img src="https://github.com/Event-AHU/OpenEvDET/blob/main/EvDET200K/figures/benchmarkResults.png" alt="benchmarkResults.png" width="800"/>  
 </p>
 
 
-<p align="center">
-  <img src="https://github.com/Event-AHU/OpenEvDET/blob/main/EvDET200K/figures/framework.png" alt="benchmarkResults.png" width="800"/>
-</p>
+
