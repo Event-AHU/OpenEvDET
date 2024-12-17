@@ -14,7 +14,8 @@
 
 
 ### Event-based Detection Methods 
-
+* [arXiv:2412.02890] EvRT-DETR: The Surprising Effectiveness of DETR-based Detection for Event Cameras,  Dmitrii Torbunov, Yihui Ren, Animesh Ghose, Odera Dim, Yonggang Cui,
+[[paper](https://arxiv.org/abs/2412.02890)]
 
 * [arXiv:2411.18658] HDI-Former: Hybrid Dynamic Interaction ANN-SNN Transformer for Object Detection Using Frames and Events, Dianze Li, Jianing Li, Xu Liu, Zhaokun Zhou, Xiaopeng Fan, Yonghong Tian 
   [[Paper](https://arxiv.org/abs/2411.18658)] 
