@@ -11,11 +11,17 @@
 
 
 
+### Representative Object Detectors 
+
+* **YOLOv12: Attention-Centric Real-Time Object Detectors**,
+  Yunjie Tian, Qixiang Ye, David Doermann
+  [[Paper](https://arxiv.org/abs/2502.12524)]
+  [[Code](https://github.com/sunsmarterjie/yolov12)]
+
+* 
 
 
 ### Event-based Detection Methods 
-
-
 
 * [arXiv:2412.06708] **FlexEvent: Event Camera Object Detection at Arbitrary Frequencies**, 
   Dongyue Lu, Lingdong Kong, Gim Hee Lee, Camille Simon Chane, Wei Tsang Ooi 
