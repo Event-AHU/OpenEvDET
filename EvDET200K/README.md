@@ -84,20 +84,33 @@ NCCL_P2P_DISABLE=1 CUDA_VISIBLE_DEVICES=0,1 torchrun --nproc_per_node=2 tools/tr
 
 ---
 ## Checkpoint Download
-You can download the pretrained checkpoint from [BaiduYun](https://pan.baidu.com/s/1UZ3TH0VA31XvVaH-BpiTKA?pwd=ahue).
+You can download the pretrained checkpoint on EvDET200K dataset from [BaiduYun](https://pan.baidu.com/s/1UZ3TH0VA31XvVaH-BpiTKA?pwd=ahue), with model config:
 
+<table>
+  <tr>
+    <th align="center">Dataset</th>
+    <th align="center">Input Size</th>
+    <th align="center">Block Num.</th>
+    <th align="center">Channel</th>
+  </tr>
+  <tr>
+    <td align="center">EvDET200K</td>
+    <td align="center">640</td>
+    <td align="center">(2,2,18,2)</td>
+    <td align="center">(96,192,384,768)</td>
+  </tr>
+</table>
 
+---
 
-
-
-### Acknowledgments
+## Acknowledgments
 
 Our code is extended from the following repositories. We sincerely appreciate for their contributions.
 
 * [vHeat](https://github.com/MzeroMiko/vHeat)
 * [RT-DETR](https://github.com/lyuwenyu/RT-DETR)
 
-### Cite
+## Cite
 If you find this work helps your research, please cite the following paper and give us a star.
 ```
 @article{wang2024mvheatdet,
