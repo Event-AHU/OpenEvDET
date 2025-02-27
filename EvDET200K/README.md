@@ -24,15 +24,29 @@ pip install -r requirements.txt
 ```
 
 ### Data
+Download the EvDET200K dataset, and modify the dataset path in configs\dataset\EvDET200K_detection.yml.
 
 
 ## Training
-```python
-python train.py PETA --use_text_prompt --use_div --use_vismask --use_GL --use_mm_former
+
+### training on single-gpu
 ```
+CUDA_VISIBLE_DEVICES=1 python tools/train.py -c configs/evheat/MvHeatDET.yml
+```
+### training on multi-gpu
+```
+NCCL_P2P_DISABLE=1 CUDA_VISIBLE_DEVICES=0,1 torchrun --nproc_per_node=2 tools/train.py -c configs/evheat/MvHeatDET.yml
+```
+
 ## Test
-```python
-python test_example.py PETA --checkpoint --dir your_dir --use_div --use_vismask --vis_prompt 50 --use_GL --use_textprompt --use_mm_former 
+
+### testing on single-gpu
+```
+python tools/train.py -c configs/evheat/MvHeatDET.yml -r ckp/mvheatdet_input640_layers18_dim768.pth --test-only
+```
+### testing on multi-gpu
+```
+NCCL_P2P_DISABLE=1 CUDA_VISIBLE_DEVICES=0,1 torchrun --nproc_per_node=2 tools/train.py -c configs/evheat/MvHeatDET.yml -r ckp/mvheatdet_input640_layers18_dim768.pth --test-only
 ```
 
 ## Config
