@@ -27,7 +27,7 @@ pip install -r requirements.txt
 Download the EvDET200K dataset, and modify the dataset path in `configs\dataset\EvDET200K_detection.yml`.
 
 
-## Training
+## Train
 
 ### training on single-gpu
 ```
@@ -49,27 +49,8 @@ python tools/train.py -c configs/evheat/MvHeatDET.yml -r ckp/mvheatdet_input640_
 NCCL_P2P_DISABLE=1 CUDA_VISIBLE_DEVICES=0,1 torchrun --nproc_per_node=2 tools/train.py -c configs/evheat/MvHeatDET.yml -r ckp/mvheatdet_input640_layers18_dim768.pth --test-only
 ```
 
-## Config
-|Parameters |Implication|
-|:---------------------|:---------:|
-| ag_threshold    | Thresholding in global localized image text aggregation (0,1) |
-| use_div    |  Whether or not to use regional splits  |
-| use_vismask    |  Whether to use a visual mask  |
-| use_GL    |  Whether or not to use global localized image text aggregation  |
-| use_textprompt    |  Whether or not to use text prompt   |
-| use_mm_former    |  Fusion of features using multimodal Transformer or linear layers  |
-| div_num    |  Number of split regions  |
-| overlap_row    |  Number of overlapping rows in the split regions   |
-| text_prompt    |  Number of text prompts  |
-| vis_prompt    |  Number of visual prompts |
-| vis_depth    |  Depth of visual prompts [1,24]  |
-
-## Vit-Large Checkpoint Download
-Dataset  | BaiduYun | Extracted code| GoogleDrive
-|:-------------|:---------:|:---------:|:---------:|
-| RAP  | [BaiduYun](https://pan.baidu.com/s/1IgXM3EYjuWPxKylVlQG7iA) | 1oen | [GoogleDrive](https://drive.google.com/drive/folders/1GkpaMjJjRDDRnLABK08uoNsOsKXN-nD5?usp=sharing) 
-| PETA  | [BaiduYun](https://pan.baidu.com/s/196CDyMFX5rrMQEcC4kQ00w) | MMIC | [GoogleDrive](https://drive.google.com/drive/folders/1GkpaMjJjRDDRnLABK08uoNsOsKXN-nD5?usp=sharing)
-| PA100k  | [BaiduYun](https://pan.baidu.com/s/196CDyMFX5rrMQEcC4kQ00w) | MMIC | [GoogleDrive](https://drive.google.com/drive/folders/1GkpaMjJjRDDRnLABK08uoNsOsKXN-nD5?usp=sharing)
+## Checkpoint Download
+You can download the pretrained checkpoint from [BaiduYun]().
 ## News: 
 
 
