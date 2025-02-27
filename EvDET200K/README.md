@@ -91,3 +91,14 @@ Our code is extended from the following repositories. We sincerely appreciate fo
 
 * [vHeat](https://github.com/MzeroMiko/vHeat)
 * [RT-DETR](https://github.com/lyuwenyu/RT-DETR)
+
+### Cite
+If you find this work helps your research, please cite the following paper and give us a star.
+```
+@article{wang2024mvheatdet,
+  title={Object Detection using Event Camera: A MoE Heat Conduction based Detector and A New Benchmark Dataset},
+  author={Wang, Xiao and Jin, Yu and Wu, Wentao and Zhang, Wei and Zhu, Lin and Jiang, Bo and Tian, Yonghong},
+  journal={arXiv preprint arXiv:2412.06647},
+  year={2024}
+}
+```
