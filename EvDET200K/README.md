@@ -24,7 +24,7 @@ pip install -r requirements.txt
 ```
 
 ### Data
-Download the EvDET200K dataset, and modify the dataset path in configs\dataset\EvDET200K_detection.yml.
+Download the EvDET200K dataset, and modify the dataset path in `configs\dataset\EvDET200K_detection.yml`.
 
 
 ## Training
