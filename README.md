@@ -6,6 +6,8 @@
 
 ## :dart:  Update Logs 
 
+* [2025.02.27] [[**MvHeat-DET**](https://arxiv.org/abs/2412.06647)] is accepted by CVPR 22025!
+
 * [Dec-10-2024] EvDET200K and MvHeat-DET Detection Algorithm is released on [[arXiv:2412.06647](https://arxiv.org/abs/2412.06647)]
 
 
