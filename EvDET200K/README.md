@@ -14,21 +14,17 @@
 > **[Official PyTorch implementation of "Object Detection using Event Camera: A MoE Heat Conduction based Detector and A New Benchmark Dataset]()**, Xiao Wang, Yu Jin, Wentao Wu, Wei Zhang, Lin Zhu, Bo Jiang, Yonghong Tian
 
 
-## Usage
-### Requirements
+## Quick start
+### Install
 we use single RTX 4090 24G GPU for training and evaluation. 
 ```
-Python 3.9.16
-pytorch 1.12.1
-torchvision 0.13.1
-scipy 1.10.0
-Pillow
-easydict
-tqdm
-opencv-python
-ftfy
-regex
+conda create -n mvheat python=3.8
+conda activate mvheat
+pip install -r requirements.txt
 ```
+
+### Data
+
 
 ## Training
 ```python
