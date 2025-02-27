@@ -1,0 +1,9 @@
+__include__: [
+  '../dataset/EvDET200K_detection.yml',
+  '../runtime.yml',
+  './include/dataloader.yml',
+  './include/optimizer.yml',
+  './include/mvheatdet.yml',
+]
+
+output_dir: ./output/mvheatdet
