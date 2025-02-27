@@ -2,14 +2,15 @@
   MvHeat-DET
 </h1>
 
-<p align="center">
+<div align="center">
+
+  <h3 align="center">
+    Official PyTorch implementation of "Object Detection using Event Camera: A MoE Heat Conduction based Detector and A New Benchmark Dataset"
+  </h3>
+  
   <a href="https://arxiv.org/abs/2412.06647">arXiv</a> &nbsp; 
   <a href="https://github.com/Event-AHU/OpenEvDET/edit/main/EvDET200K">GitHub</a>
-</p>
-<div align="center">
   
- **Official PyTorch implementation of "Object Detection using Event Camera: A MoE Heat Conduction based Detector and A New Benchmark Dataset"**
-
  Xiao Wang<sup>1</sup>, Yu Jin<sup>1</sup>, Wentao Wu<sup>2</sup>, Wei Zhang<sup>3</sup>, Lin Zhu<sup>4</sup>, Bo Jiang<sup>1</sup>, Yonghong Tian<sup>3,5,6</sup>
 
  <sup>1</sup>School of Computer Science and Technology, Anhui University, Hefei, China
