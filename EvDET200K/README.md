@@ -79,7 +79,7 @@ NCCL_P2P_DISABLE=1 CUDA_VISIBLE_DEVICES=0,1 torchrun --nproc_per_node=2 tools/tr
 
 ---
 ## Checkpoint Download
-You can download the pretrained checkpoint from [BaiduYun]().
+You can download the pretrained checkpoint from [BaiduYun](https://pan.baidu.com/s/1UZ3TH0VA31XvVaH-BpiTKA).
 
 
 
