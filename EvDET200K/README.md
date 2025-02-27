@@ -28,7 +28,7 @@ Object detection in event streams has emerged as a cutting edge research area, d
 
 <div align="center">
 <img src="https://github.com/Event-AHU/OpenEvDET/blob/58d0c56314cb7981a973885370ba192a5b0ed611/EvDET200K/figures/dataset_visualization.jpg" width="800">
-<img src="https://github.com/Event-AHU/OpenEvDET/blob/1fd7f11fa87d8c70a19986cdc36613c855f4fe32/EvDET200K/figures/benchmark_dataset_compare.png" width="800">
+<!-- <img src="https://github.com/Event-AHU/OpenEvDET/blob/1fd7f11fa87d8c70a19986cdc36613c855f4fe32/EvDET200K/figures/benchmark_dataset_compare.png" width="800"> -->
 </div>
 
 ### Our Proposed Approach 
