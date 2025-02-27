@@ -113,7 +113,7 @@ Our code is extended from the following repositories. We sincerely appreciate fo
 * [vHeat](https://github.com/MzeroMiko/vHeat)
 * [RT-DETR](https://github.com/lyuwenyu/RT-DETR)
 
-## Cite
+## Citation
 If you find this work helps your research, please cite the following paper and give us a star.
 ```
 @article{wang2024mvheatdet,
