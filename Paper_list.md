@@ -23,6 +23,11 @@
 
 ### Event-based Detection Methods 
 
+* [CVPR 2025] **Ev-3DOD: Pushing the Temporal Boundaries of 3D Object Detection with Event Cameras**,
+  Hoonhee Cho, Jae-young Kang, Youngho Kim, Kuk-Jin Yoon
+  [[Paper](https://arxiv.org/abs/2502.19630)]
+  [[Code](https://github.com/mickeykang16/Ev3DOD)] 
+  
 * [arXiv:2412.06708] **FlexEvent: Event Camera Object Detection at Arbitrary Frequencies**, 
   Dongyue Lu, Lingdong Kong, Gim Hee Lee, Camille Simon Chane, Wei Tsang Ooi 
   [[Paper](https://arxiv.org/abs/2412.06708)] 
