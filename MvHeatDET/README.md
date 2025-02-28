@@ -116,10 +116,13 @@ Our code is extended from the following repositories. We sincerely appreciate fo
 ## Citation
 If you find this work helps your research, please cite the following paper and give us a star.
 ```
-@article{wang2024mvheatdet,
-  title={Object Detection using Event Camera: A MoE Heat Conduction based Detector and A New Benchmark Dataset},
-  author={Wang, Xiao and Jin, Yu and Wu, Wentao and Zhang, Wei and Zhu, Lin and Jiang, Bo and Tian, Yonghong},
-  journal={arXiv preprint arXiv:2412.06647},
-  year={2024}
+@misc{wang2024EvDET200K,
+      title={Object Detection using Event Camera: A MoE Heat Conduction based Detector and A New Benchmark Dataset}, 
+      author={Xiao Wang and Yu Jin and Wentao Wu and Wei Zhang and Lin Zhu and Bo Jiang and Yonghong Tian},
+      year={2024},
+      eprint={2412.06647},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2412.06647}, 
 }
 ```
