@@ -87,7 +87,7 @@ NCCL_P2P_DISABLE=1 CUDA_VISIBLE_DEVICES=0,1 torchrun --nproc_per_node=2 tools/tr
 
 ---
 ## Checkpoint Download
-You can download the pretrained checkpoint on EvDET200K dataset from [BaiduYun](https://pan.baidu.com/s/1UZ3TH0VA31XvVaH-BpiTKA?pwd=ahue), with model config:
+You can download the pretrained checkpoint on EvDET200K dataset from [BaiduYun](https://pan.baidu.com/s/1UZ3TH0VA31XvVaH-BpiTKA?pwd=ahue), [Dropbox](https://www.dropbox.com/scl/fi/r42vh0chc6l8k9m6qdmxi/mvheatdet_input640_layers18_dim768.pth?rlkey=e3ecowimydplm7l62ujndsoqj&st=xfc0i1qm&dl=0), with model config:
 
 <table>
   <tr>
