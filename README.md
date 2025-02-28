@@ -22,13 +22,16 @@
 
 ## :dart:  Works Maintained in this Github 
 
-* **Object Detection using Event Camera: A MoE Heat Conduction based Detector and A New Benchmark Dataset**, 
+* [CVPR 2025] **Object Detection using Event Camera: A MoE Heat Conduction based Detector and A New Benchmark Dataset**, 
   Xiao Wang, Yu Jin, Wentao Wu, Wei Zhang, Lin Zhu, Bo Jiang, Yonghong Tian 
   [[Paper](https://arxiv.org/abs/2412.06647)] 
 
 
 
 ## :dart:  Citation 
+
+If you think our work helps your research, please give us a **star** and **cite** the following papers. 
+
 ```bibtex
 @misc{wang2024EvDET200K,
       title={Object Detection using Event Camera: A MoE Heat Conduction based Detector and A New Benchmark Dataset}, 
@@ -41,4 +44,4 @@
 }
 ```
 
-If you have any questions about these works, please leave an issue. 
+If you have any questions about these works, please feel free to leave an issue. 
