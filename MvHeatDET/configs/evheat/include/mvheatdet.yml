@@ -1,0 +1,59 @@
+task: detection
+
+model: DETR
+criterion: SetCriterion
+postprocessor: RTDETRPostProcessor
+
+
+DETR: 
+  encoder: MvHeat_DET
+  decoder: RTDETRTransformer
+
+MvHeat_DET:
+  patch_size: 4
+  in_chans: 3
+  num_classes: 10
+  depths: [2, 2, 18, 2]
+  dims: [96, 192, 384, 768]
+  drop_path_rate: 0.2
+  patch_norm: True
+  post_norm: True
+  layer_scale: 1.e-5
+  use_checkpoint: False
+  mlp_ratio: 4.0
+  img_size: 640
+  act_layer: 'GELU'
+  infer_mode: False
+
+RTDETRTransformer:
+  feat_channels: [768]
+  feat_strides: [32]
+  hidden_dim: 256
+  num_levels: 1
+  num_queries: 100
+  num_decoder_layers: 6
+  num_denoising: 300
+  eval_idx: -1
+  eval_spatial_size: [640, 640]
+
+use_focal_loss: True
+
+RTDETRPostProcessor:
+  num_top_queries: 300
+
+
+SetCriterion:
+  weight_dict: {loss_vfl: 1, loss_bbox: 5, loss_giou: 2,}
+  losses: ['vfl', 'boxes', ]
+  alpha: 0.75
+  gamma: 2.0
+
+  matcher:
+    type: HungarianMatcher
+    weight_dict: {cost_class: 2, cost_bbox: 5, cost_giou: 2}
+    # use_focal_loss: True 
+    alpha: 0.25
+    gamma: 2.0
+
+
+
