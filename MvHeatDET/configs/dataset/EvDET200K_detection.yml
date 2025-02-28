@@ -7,10 +7,8 @@ train_dataloader: # COCO style
   type: DataLoader
   dataset: 
     type: CocoDetection
-    # img_folder: /Dataset/EvDET200K/event_frame/train # Change it to your data address
-    # ann_file: /Dataset/EvDET200K/event_frame/annotation/train.json # Change it to your label address   
-    img_folder: /media/amax/c08a625b-023d-436f-b33e-9652dc1bc7c01/DATA/dataset/ESO/coco_style/data/
-    ann_file: /media/amax/c08a625b-023d-436f-b33e-9652dc1bc7c01/DATA/dataset/ESO/coco_style/annotations/train_sg.json
+    img_folder: /Dataset/EvDET200K/event_frame/train # Change it to your data address
+    ann_file: /Dataset/EvDET200K/event_frame/annotation/train.json # Change it to your label address   
     transforms:
       type: Compose
       ops: ~
@@ -24,10 +22,8 @@ val_dataloader:
   type: DataLoader
   dataset: 
     type: CocoDetection
-    # img_folder: /Dataset/EvDET200K/event_frame/test # Change it to your data address
-    # ann_file: /Dataset/EvDET200K/event_frame/annotation/test.json # Change it to your label address
-    img_folder: /media/amax/c08a625b-023d-436f-b33e-9652dc1bc7c01/DATA/dataset/ESO/coco_style/data/
-    ann_file: /media/amax/c08a625b-023d-436f-b33e-9652dc1bc7c01/DATA/dataset/ESO/coco_style/annotations/test_sg.json
+    img_folder: /Dataset/EvDET200K/event_frame/test # Change it to your data address
+    ann_file: /Dataset/EvDET200K/event_frame/annotation/test.json # Change it to your label address
     transforms:
       type: Compose
       ops: ~ 
