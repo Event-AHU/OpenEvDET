@@ -67,7 +67,7 @@ Download the [EvDET200K](https://pan.baidu.com/s/1HfkDyVv_dV_lbJGX0cQEVg?pwd=ahu
 
 #### training on single-gpu
 ```
-CUDA_VISIBLE_DEVICES=1 python tools/train.py -c configs/evheat/MvHeatDET.yml
+python tools/train.py -c configs/evheat/MvHeatDET.yml
 ```
 #### training on multi-gpu
 ```
