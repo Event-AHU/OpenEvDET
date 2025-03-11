@@ -35,17 +35,17 @@ Object detection in event streams has emerged as a cutting edge research area, d
 
 ### Our Proposed Approach 
 <div align="center">
-<img src="https://github.com/Event-AHU/OpenEvDET/blob/1fd7f11fa87d8c70a19986cdc36613c855f4fe32/EvDET200K/figures/framework.png" width="800">
+<img src="https://github.com/Event-AHU/OpenEvDET/blob/89a5f8cbab637ea19882649c005050c09cf34316/MvHeatDET/figures/framework.png" width="800">
 </div>
 
 ### Experimental Results
 <div align="center">
-<img src="https://github.com/Event-AHU/OpenEvDET/blob/1fd7f11fa87d8c70a19986cdc36613c855f4fe32/EvDET200K/figures/benchmarkResults.png" width="800">
+<img src="https://github.com/Event-AHU/OpenEvDET/blob/89a5f8cbab637ea19882649c005050c09cf34316/MvHeatDET/figures/benchmarkResults.png" width="800">
 </div>
 
 ### Dataset visualizations
 <div align="center">
-<img src="https://github.com/Event-AHU/OpenEvDET/blob/58d0c56314cb7981a973885370ba192a5b0ed611/EvDET200K/figures/dataset_visualization.jpg" width="800">
+<img src="https://github.com/Event-AHU/OpenEvDET/blob/89a5f8cbab637ea19882649c005050c09cf34316/MvHeatDET/figures/dataset_visualization.jpg" width="800">
 <!-- <img src="https://github.com/Event-AHU/OpenEvDET/blob/1fd7f11fa87d8c70a19986cdc36613c855f4fe32/EvDET200K/figures/benchmark_dataset_compare.png" width="800"> -->
 </div>
 
