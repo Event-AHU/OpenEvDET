@@ -49,6 +49,13 @@ Object detection in event streams has emerged as a cutting edge research area, d
 <!-- <img src="https://github.com/Event-AHU/OpenEvDET/blob/1fd7f11fa87d8c70a19986cdc36613c855f4fe32/EvDET200K/figures/benchmark_dataset_compare.png" width="800"> -->
 </div>
 
+### Demo Video
+<video controls width="600">
+  <source src="https://github.com/Event-AHU/OpenEvDET/blob/89a5f8cbab637ea19882649c005050c09cf34316/MvHeatDET/figures/EvDET200K_demovideo480.mp4" type="video/mp4">
+</video>
+
+
+
 ---
 ## Quick start
 ### Install
