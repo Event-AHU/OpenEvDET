@@ -55,8 +55,9 @@ Object detection in event streams has emerged as a cutting edge research area, d
 
 
 
+
 <div align="center">
-  <video src="https://github.com/user-attachments/assets/e6d315ad-5240-4d2b-9851-ac920114b16c" width="100%" poster=""> </video>
+  <video src="https://github.com/user-attachments/assets/726df5d5-30b4-4685-8dda-f9e4570804f5" width="100%" poster=""> </video>
 </div>
 
 
