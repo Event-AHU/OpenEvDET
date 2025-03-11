@@ -26,6 +26,10 @@
   Xiao Wang, Yu Jin, Wentao Wu, Wei Zhang, Lin Zhu, Bo Jiang, Yonghong Tian 
   [[Paper](https://arxiv.org/abs/2412.06647)] 
 
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/726df5d5-30b4-4685-8dda-f9e4570804f5" width="100%" poster=""> </video>
+</div>
+
 
 
 ## :dart:  Citation 
