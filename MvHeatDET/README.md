@@ -73,7 +73,7 @@ pip install -r requirements.txt
 ```
 
 ### Data
-Download the [EvDET200K](https://pan.baidu.com/s/1HfkDyVv_dV_lbJGX0cQEVg?pwd=ahue) dataset, and modify the dataset path in `configs\dataset\EvDET200K_detection.yml`.
+Download the [EvDET200K (Baiduyun)](https://pan.baidu.com/s/1HfkDyVv_dV_lbJGX0cQEVg?pwd=ahue) dataset or from [[Dropbox](https://www.dropbox.com/scl/fo/2x3qf8bcwd6qb4f70fnda/AL2ULrSzZuVgpVlH8RTqhsY?rlkey=hh7k0lqg1tru4iisi0vo12y6x&st=nz4b3c13&dl=0)], and modify the dataset path in `configs\dataset\EvDET200K_detection.yml`.
 
 
 ### Train
