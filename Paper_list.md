@@ -41,11 +41,6 @@
 * [arXiv:2411.18658] **HDI-Former: Hybrid Dynamic Interaction ANN-SNN Transformer for Object Detection Using Frames and Events**,
   Dianze Li, Jianing Li, Xu Liu, Zhaokun Zhou, Xiaopeng Fan, Yonghong Tian 
   [[Paper](https://arxiv.org/abs/2411.18658)] 
-  
-* [arXiv:2405.14458] "**Yolov10: Real-time end-to-end object detection.**" arXiv preprint arXiv:2405.14458 (2024).
-  Wang, Ao, et al. 
-  [[Paper](https://arxiv.org/abs/2405.14458)]
-  [[Code](https://github.com/THU-MIG/yolov10)] 
 
 * [Nature 2024] Gehrig, Daniel, and Davide Scaramuzza. "**Low-latency automotive vision with event cameras.**" Nature 629.8014 (2024): 1034-1040.
   [[Paper](https://www.nature.com/articles/s41586-024-07409-w)]
