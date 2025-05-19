@@ -8,7 +8,7 @@
     Official PyTorch implementation of "Dynamic Graph Induced Contour-aware Heat Conduction Network for Event-based Object Detection"
   </h3>
 
-  `<a href="https://arxiv.org/abs/2412.06647">`arXiv`</a>` &nbsp;
+  `<a href="">`arXiv`</a>` &nbsp;
   `<a href="https://github.com/Event-AHU/OpenEvDET/edit/main/EvDET200K">`GitHub`</a>`
 
  Xiao Wang`<sup>`1`</sup>`, Yu Jin`<sup>`1`</sup>`, Wentao Wu`<sup>`2`</sup>`, Wei Zhang`<sup>`3`</sup>`, Lin Zhu`<sup>`4`</sup>`, Bo Jiang`<sup>`1`</sup>`, Yonghong Tian`<sup>`3,5,6`</sup>`
