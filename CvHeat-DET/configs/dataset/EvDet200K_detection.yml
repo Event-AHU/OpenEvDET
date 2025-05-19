@@ -1,0 +1,34 @@
+task: detection
+
+num_classes: 10
+remap_mscoco_category: True
+
+train_dataloader: 
+  type: DataLoader
+  dataset: 
+    type: CocoDetection
+    img_folder: /dataset/EvDET200K_event_frame
+    ann_file: /dataset/EvDET200K_event_frame/annotations/train.json
+    transforms:
+      type: Compose
+      ops: ~
+  shuffle: True
+  batch_size: ~
+  num_workers: 4
+  drop_last: True 
+
+
+val_dataloader:
+  type: DataLoader
+  dataset: 
+    type: CocoDetection
+    img_folder: /dataset/EvDET200K_event_frame
+    ann_file: /dataset/EvDET200K_event_frame/annotations/test.json
+    transforms:
+      type: Compose
+      ops: ~ 
+
+  shuffle: False
+  batch_size: ~
+  num_workers: 4
+  drop_last: False
