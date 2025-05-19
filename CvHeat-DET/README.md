@@ -9,7 +9,7 @@
   </h3>
 
  <a href="">arXiv</a> &nbsp; 
- <a href="https://github.com/Event-AHU/OpenEvDET/main/CvHeat-DET">GitHub</a>
+ <a href="https://github.com/Event-AHU/OpenEvDET/tree/main/CvHeat-DET">GitHub</a>
   
  Xiao Wang<sup>1</sup>, Yu Jin<sup>1</sup>, Wentao Wu<sup>2</sup>, Wei Zhang<sup>3</sup>, Lin Zhu<sup>4</sup>, Bo Jiang<sup>1</sup>, Yonghong Tian<sup>3,5,6</sup>
 
