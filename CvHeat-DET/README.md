@@ -33,11 +33,15 @@ Event-based Vision Sensors (EVS) have demonstrated significant advantages over t
 tween efficiency and accuracy; however, these models are not specifically designed for event stream data. They exhibit weak capability in modeling object contour information and fail to exploit the benefits of multi-scale features. To address these
  issues, this paper proposes a novel dynamic graph induced contour-aware heat conduction network for event stream based object detection, termed CvHeat-DET. The proposed model effectively leverages the clear contour information inherent in event streams to predict the thermal diffusivity coefficients within the heat conduction model, and integrates hierarchical structural graph features to enhance feature learning across multiple scales. Extensive experiments on three benchmark datasets for event stream-based object detection fully validated the effectiveness of the proposed model.
 
+
+
 ### Our Proposed Approach
 
 <div align="center">
 <img src="https://github.com/Event-AHU/OpenEvDET/blob/5fffa5f2737227535a3c42b96396514d143baaa2/CvHeat-DET/figures/vheat_gnn_framework.jpg" width="800">
 </div>
+
+
 
 ### Experimental Results
 
@@ -47,11 +51,13 @@ tween efficiency and accuracy; however, these models are not specifically design
 
 ---
 
+
+
 ## Quick start
 
 ### Install
 
-we use single A800 80G GPU for training and evaluation.
+We use a single A800 80G GPU for training and evaluation.
 
 ```
 conda create -n cvheat python=3.8
@@ -65,13 +71,13 @@ Download the [EvDET200K (Baiduyun)](https://pan.baidu.com/s/1HfkDyVv_dV_lbJGX0cQ
 
 ### Train
 
-#### training on single-gpu
+#### training on a single GPU
 
 ```
 python tools/train.py -c configs/evheat/cvheat.yml
 ```
 
-#### training on multi-gpu
+#### training on multi-GPU
 
 ```
 NCCL_P2P_DISABLE=1 CUDA_VISIBLE_DEVICES=0,1 torchrun --nproc_per_node=2 tools/train.py -c configs/evheat/cvheat.yml -o output/contour
@@ -79,13 +85,13 @@ NCCL_P2P_DISABLE=1 CUDA_VISIBLE_DEVICES=0,1 torchrun --nproc_per_node=2 tools/tr
 
 ### Test
 
-#### testing on single-gpu
+#### testing on a single GPU
 
 ```
 python tools/train.py -c configs/evheat/cvheat.yml -r path_to_ckp --test-only
 ```
 
-#### testing on multi-gpu
+#### testing on multi-GPU
 
 ```
 NCCL_P2P_DISABLE=1 CUDA_VISIBLE_DEVICES=0,1 torchrun --nproc_per_node=2 tools/train.py -c configs/evheat/cvheat.yml -r path_to_ckp --test-only
@@ -95,7 +101,7 @@ NCCL_P2P_DISABLE=1 CUDA_VISIBLE_DEVICES=0,1 torchrun --nproc_per_node=2 tools/tr
 
 ## Acknowledgments
 
-Our code is extended from the following repositories. We sincerely appreciate for their contributions.
+Our code is extended from the following repositories. We sincerely appreciate their contributions.
 
 * [vHeat](https://github.com/MzeroMiko/vHeat)
 * [RT-DETR](https://github.com/lyuwenyu/RT-DETR)
