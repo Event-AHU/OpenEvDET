@@ -38,7 +38,7 @@ tween efficiency and accuracy; however, these models are not specifically design
 ### Our Proposed Approach
 
 <div align="center">
-<img src="https://github.com/Event-AHU/OpenEvDET/blob/89a5f8cbab637ea19882649c005050c09cf34316/MvHeatDET/figures/framework.png" width="800">
+<img src="https://github.com/Event-AHU/OpenEvDET/blob/5fffa5f2737227535a3c42b96396514d143baaa2/CvHeat-DET/figures/vheat_gnn_framework.jpg" width="800">
 </div>
 
 ### Experimental Results
