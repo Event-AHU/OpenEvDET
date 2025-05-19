@@ -6,7 +6,7 @@
 
 <h3 align="center">
     Official PyTorch implementation of "Dynamic Graph Induced Contour-aware Heat Conduction Network for Event-based Object Detection"
-  </h3>
+</h3>
 
  <a href="">arXiv</a> &nbsp; 
  <a href="https://github.com/Event-AHU/OpenEvDET/tree/main/CvHeat-DET">GitHub</a>
