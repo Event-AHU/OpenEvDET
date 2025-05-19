@@ -61,7 +61,9 @@ We use a single A800 80G GPU for training and evaluation.
 
 ```
 conda create -n cvheat python=3.8
+
 conda activate cvheat
+
 pip install -r requirements.txt
 ```
 
