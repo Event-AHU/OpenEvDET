@@ -47,19 +47,6 @@ tween efficiency and accuracy; however, these models are not specifically design
 <img src="https://github.com/Event-AHU/OpenEvDET/blob/89a5f8cbab637ea19882649c005050c09cf34316/MvHeatDET/figures/benchmarkResults.png" width="800">
 </div>
 
-### Dataset visualizations
-
-<div align="center">
-<img src="https://github.com/Event-AHU/OpenEvDET/blob/89a5f8cbab637ea19882649c005050c09cf34316/MvHeatDET/figures/dataset_visualization.jpg" width="800">
-<!-- <img src="https://github.com/Event-AHU/OpenEvDET/blob/1fd7f11fa87d8c70a19986cdc36613c855f4fe32/EvDET200K/figures/benchmark_dataset_compare.png" width="800"> -->
-</div>
-
-### Demo Video
-
-<div align="center">
-  <video src="https://github.com/user-attachments/assets/726df5d5-30b4-4685-8dda-f9e4570804f5" width="100%" poster=""> </video>
-</div>
-
 ---
 
 ## Quick start
@@ -108,27 +95,6 @@ NCCL_P2P_DISABLE=1 CUDA_VISIBLE_DEVICES=0,1 torchrun --nproc_per_node=2 tools/tr
 
 ---
 
-## Checkpoint Download
-
-You can download the pretrained checkpoint on EvDET200K dataset from [BaiduYun](https://pan.baidu.com/s/1UZ3TH0VA31XvVaH-BpiTKA?pwd=ahue), [Dropbox](https://www.dropbox.com/scl/fi/r42vh0chc6l8k9m6qdmxi/mvheatdet_input640_layers18_dim768.pth?rlkey=e3ecowimydplm7l62ujndsoqj&st=xfc0i1qm&dl=0), with model config:
-
-<table>
-  <tr>
-    <th align="center">Dataset</th>
-    <th align="center">Input Size</th>
-    <th align="center">Block Num.</th>
-    <th align="center">Channel</th>
-  </tr>
-  <tr>
-    <td align="center">EvDET200K</td>
-    <td align="center">640</td>
-    <td align="center">(2,2,18,2)</td>
-    <td align="center">(96,192,384,768)</td>
-  </tr>
-</table>
-
----
-
 ## Acknowledgments
 
 Our code is extended from the following repositories. We sincerely appreciate for their contributions.
@@ -141,13 +107,5 @@ Our code is extended from the following repositories. We sincerely appreciate fo
 If you find this work helps your research, please cite the following paper and give us a star.
 
 ```
-@misc{wang2024EvDET200K,
-      title={Object Detection using Event Camera: A MoE Heat Conduction based Detector and A New Benchmark Dataset}, 
-      author={Xiao Wang and Yu Jin and Wentao Wu and Wei Zhang and Lin Zhu and Bo Jiang and Yonghong Tian},
-      year={2024},
-      eprint={2412.06647},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2412.06647}, 
-}
+
 ```
