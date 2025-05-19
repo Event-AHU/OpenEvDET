@@ -8,24 +8,22 @@
     Official PyTorch implementation of "Dynamic Graph Induced Contour-aware Heat Conduction Network for Event-based Object Detection"
   </h3>
 
-  `<a href="">`arXiv`</a>`;
-  `<a href="https://github.com/Event-AHU/OpenEvDET/edit/main/EvDET200K">`GitHub`</a>`
+ <a href="">arXiv</a> &nbsp; 
+ <a href="https://github.com/Event-AHU/OpenEvDET/main/CvHeat-DET">GitHub</a>
+  
+ Xiao Wang<sup>1</sup>, Yu Jin<sup>1</sup>, Wentao Wu<sup>2</sup>, Wei Zhang<sup>3</sup>, Lin Zhu<sup>4</sup>, Bo Jiang<sup>1</sup>, Yonghong Tian<sup>3,5,6</sup>
 
- Xiao Wang`<sup>`1`</sup>`, Yu Jin`<sup>`1`</sup>`, Wentao Wu`<sup>`2`</sup>`, Wei Zhang`<sup>`3`</sup>`, Lin Zhu`<sup>`4`</sup>`, Bo Jiang`<sup>`1`</sup>`, Yonghong Tian`<sup>`3,5,6`</sup>`
-
- `<sup>`1`</sup>`School of Computer Science and Technology, Anhui University, Hefei, China
-
- `<sup>`2`</sup>`School of Artificial Intelligence, Anhui University, Hefei, China
-
- `<sup>`3`</sup>`Peng Cheng Laboratory, Shenzhen, China
-
- `<sup>`4`</sup>`Beijing Institute of Technology, Beijing, China
-
- `<sup>`5`</sup>`National Key Laboratory for Multimedia Information Processing, School of Computer Science, Peking University, China
-
- `<sup>`6`</sup>`School of Electronic and Computer Engineering, Shenzhen Graduate School, Peking University, China
-
-</div>
+ <sup>1</sup>School of Computer Science and Technology, Anhui University, Hefei, China
+ 
+ <sup>2</sup>School of Artificial Intelligence, Anhui University, Hefei, China
+ 
+ <sup>3</sup>Peng Cheng Laboratory, Shenzhen, China
+ 
+ <sup>4</sup>Beijing Institute of Technology, Beijing, China
+ 
+ <sup>5</sup>National Key Laboratory for Multimedia Information Processing, School of Computer Science, Peking University, China
+ 
+ <sup>6</sup>School of Electronic and Computer Engineering, Shenzhen Graduate School, Peking University, China
 
 ---
 
