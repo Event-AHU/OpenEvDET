@@ -1,5 +1,5 @@
 <h1 align="center">
-  MvHeat-DET
+  CvHeat-DET
 </h1>
 
 <div align="center">
@@ -44,7 +44,7 @@ tween efficiency and accuracy; however, these models are not specifically design
 ### Experimental Results
 
 <div align="center">
-<img src="https://github.com/Event-AHU/OpenEvDET/blob/89a5f8cbab637ea19882649c005050c09cf34316/MvHeatDET/figures/benchmarkResults.png" width="800">
+<img src="https://github.com/Event-AHU/OpenEvDET/blob/24d8596f61e434a43b368745d147a5e7ce4fbb1a/CvHeat-DET/figures/det_res.png" width="800">
 </div>
 
 ---
