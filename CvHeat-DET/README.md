@@ -25,7 +25,6 @@
  
  <sup>6</sup>School of Electronic and Computer Engineering, Shenzhen Graduate School, Peking University, China
 </div>
----
 
 ### Abstract
 
