@@ -4,11 +4,15 @@
   <img src="https://github.com/Event-AHU/OpenEvDET/blob/main/openevdet_logo.png" alt="EventDET_logo" width="800"/>
 </p>
 
+
 ## :dart:  Update Logs 
+
+* [2025.05.20] **Dynamic Graph Induced Contour-aware Heat Conduction Network for Event-based Object Detection** is released online [[arXiv](https://arxiv.org/abs/2505.12908)]
 
 * [2025.02.27] [[**MvHeat-DET**](https://arxiv.org/abs/2412.06647)] is accepted by CVPR 2025!
 
 * [Dec-10-2024] EvDET200K and MvHeat-DET Detection Algorithm is released on [[arXiv:2412.06647](https://arxiv.org/abs/2412.06647)]
+
 
 
 
@@ -20,7 +24,9 @@
 
 * [1Mpx] : https://prophesee-prod.euregion.site/2020/11/24/automotive-megapixel-event-based-dataset/
 
-## :dart:  Works Maintained in this Github 
+
+
+## :dart:  Works Maintained in this GitHub 
 
 * [CVPR 2025] **Object Detection using Event Camera: A MoE Heat Conduction based Detector and A New Benchmark Dataset**, 
   Xiao Wang, Yu Jin, Wentao Wu, Wei Zhang, Lin Zhu, Bo Jiang, Yonghong Tian 
@@ -29,6 +35,14 @@
 <div align="center">
   <video src="https://github.com/user-attachments/assets/726df5d5-30b4-4685-8dda-f9e4570804f5" width="100%" poster=""> </video>
 </div>
+
+
+## :dart: Demo for Training and Testing the Event-based Object Detection (MvHeat-DET for an example)
+[[Youtube](https://youtu.be/UE2gcTgvYCI?si=8-_vP77Ny6-jDSSM)] 
+
+<p align="center">
+  <img src="https://github.com/Event-AHU/OpenEvDET/blob/main/CvHeat-DET/figures/event_detection_code_demo.mp4_20250520_124916.658.jpg" alt="EventDET" width="800"/>
+</p>
 
 
 
@@ -45,6 +59,16 @@ If you think our work helps your research, please give us a **star** and **cite*
       archivePrefix={arXiv},
       primaryClass={cs.CV},
       url={https://arxiv.org/abs/2412.06647}, 
+}
+
+@misc{wang2025CvHeat,
+      title={Dynamic Graph Induced Contour-aware Heat Conduction Network for Event-based Object Detection}, 
+      author={Xiao Wang and Yu Jin and Lan Chen and Bo Jiang and Lin Zhu and Yonghong Tian and Jin Tang and Bin Luo},
+      year={2025},
+      eprint={2505.12908},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2505.12908}, 
 }
 ```
 
