@@ -51,9 +51,6 @@
   <video src="https://github.com/user-attachments/assets/47e0325f-31a5-47d5-8db7-3f7c5f79ecf9" width="100%" poster=""> </video>
 </div>
 
-<p align="center">
-  <img src="https://github.com/Event-AHU/OpenEvDET/blob/main/CvHeat-DET/figures/event_detection_code_demo.mp4_20250520_124916.658.jpg" alt="EventDET" width="800"/>
-</p>
 
 
 
