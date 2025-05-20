@@ -28,6 +28,10 @@
 
 ## :dart:  Works Maintained in this GitHub 
 
+* [arXiv:2505.12908] **Dynamic Graph Induced Contour-aware Heat Conduction Network for Event-based Object Detection**,
+  Xiao Wang, Yu Jin, Lan Chen, Bo Jiang, Lin Zhu, Yonghong Tian, Jin Tang, Bin Luo
+  [[Paper](https://arxiv.org/abs/2505.12908)] 
+  
 * [CVPR 2025] **Object Detection using Event Camera: A MoE Heat Conduction based Detector and A New Benchmark Dataset**, 
   Xiao Wang, Yu Jin, Wentao Wu, Wei Zhang, Lin Zhu, Bo Jiang, Yonghong Tian 
   [[Paper](https://arxiv.org/abs/2412.06647)] 
@@ -35,6 +39,8 @@
 <div align="center">
   <video src="https://github.com/user-attachments/assets/726df5d5-30b4-4685-8dda-f9e4570804f5" width="100%" poster=""> </video>
 </div>
+
+
 
 
 ## :dart: Demo for Training and Testing the Event-based Object Detection (MvHeat-DET for an example)
