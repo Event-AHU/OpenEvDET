@@ -363,7 +363,7 @@ class AdditionalInputSequential(nn.Sequential):
 
 
 @register
-class GvHeat(nn.Module):
+class CvHeat(nn.Module):
     def __init__(
         self,
         patch_size=4,
@@ -534,29 +534,6 @@ class GvHeat(nn.Module):
         del self.freq_embed
 
     def forward_features(self, x):
-        #########################################################
-        featuremap_folder = 'feat_map/pingpong'
-        def normalize_image(image):
-            img_min = image.min()
-            img_max = image.max()
-            normalized_img = (image - img_min) / (img_max - img_min)
-            return normalized_img
-        
-        import matplotlib.pyplot as plt
-        import os
-        img = x.detach().cpu().float().numpy()[0][0]
-        img = normalize_image(img)
-        # plt.imshow(img)
-        plt.imshow(img, cmap='gray') 
-        plt.axis("off")
-        plt.grid(False)
-        plt.tight_layout()
-        os.system(f'mkdir -p {featuremap_folder}')
-        path1= f'{featuremap_folder}/orin.png'
-        plt.savefig(path1,dpi=300)
-        plt.close()
-        layer_name = 0
-        ############################################
         graph_data = self.outlineGraph(x) 
         # outline_data = self.outlineGraph(x)
         x = self.patch_embed(x)
@@ -571,39 +548,7 @@ class GvHeat(nn.Module):
 
                 ol_feat = F.interpolate(ol_feat.transpose(1, 2), size=patch_resolution, mode='linear', align_corners=False).transpose(1, 2)
                 ol_feat = ol_feat.unsqueeze(2).expand(-1, -1, patch_resolution, -1)
-
                 x = layer(x, self.freq_embed[i], ol_feat)  # (B, C, H, W)
-##################################################################################
-                import numpy as np
-                import matplotlib.pyplot as plt
-                import torchvision.transforms.functional as TF
-                folder_name= f'{featuremap_folder}/layername{str(layer_name)}'
-                layer_name=layer_name+1
-                
-                feature_map = x.detach().cpu().float()[0]
-                # feature_map_normalized = (feature_map - feature_map.min()) / (feature_map.max() - feature_map.min())
-                # if layer_name<2:
-                #     continue
-                for channel in range(feature_map.size(0)):
-                    fm= feature_map.mean(dim=0)
-                    # fm = feature_map[0][channel]
-                    # fm= feature_map[0].mean(dim=2)
-                    # fm= feature_map[0, :, :, channel] ## all
-                    # plt.imshow(fm.numpy().copy(), cmap='viridis')
-                    channel_image = TF.resize(fm.unsqueeze(0).unsqueeze(0), size=(640, 640))[0][0].numpy().copy()
-                    channel_image = normalize_image(channel_image)##归一化
-                    channel_image = img*0.5+ channel_image*0.5 
-                    plt.imshow(channel_image, cmap='viridis')
-                    plt.axis("off")
-                    plt.grid(False)
-                    plt.tight_layout()
-                    path2 = f'{folder_name}_mean_{int(time.time())}.png'
-                    # path2 = f'{folder_name}/channel{channel}.png'
-                    plt.savefig(path2,dpi=300)
-                    plt.close()
-                    break
-##################################################################################
-
         return x
 
     def forward(self, x):
