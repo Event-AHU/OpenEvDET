@@ -24,9 +24,13 @@
 
 * [1Mpx] : https://prophesee-prod.euregion.site/2020/11/24/automotive-megapixel-event-based-dataset/
 
-* [eTraM]: **eTraM: Event-based Traffic Monitoring Dataset**, Aayush Atul Verma, Bharatesh Chakravarthi, Arpitsinh Vaghela, Hua Wei, Yezhou Yang; Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024, pp. 22637-22646
+* [CVPR2024, eTraM]: **eTraM: Event-based Traffic Monitoring Dataset**, Aayush Atul Verma, Bharatesh Chakravarthi, Arpitsinh Vaghela, Hua Wei, Yezhou Yang; Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024, pp. 22637-22646
   [[Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Verma_eTraM_Event-based_Traffic_Monitoring_Dataset_CVPR_2024_paper.html)]
-  [[Code](https://eventbasedvision.github.io/eTraM)] 
+  [[Code](https://eventbasedvision.github.io/eTraM)]
+
+* [ICCV 2025] Event-based Tiny Object Detection: A Benchmark Dataset and Baseline
+  [[Paper](https://arxiv.org/abs/2506.23575)] 
+  [[Code](https://github.com/ChenYichen9527/Ev-UAV)] 
 
 
 ## :dart:  Works Maintained in this GitHub 
