@@ -8,7 +8,7 @@ DETR:
   encoder: CvHeat
   decoder: RTDETRTransformer
 
-GvHeat:
+CvHeat:
   patch_size: 4
   in_chans: 3
   num_classes: 10
