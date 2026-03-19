@@ -18,10 +18,12 @@
   [[Paper](https://arxiv.org/abs/2502.12524)]
   [[Code](https://github.com/sunsmarterjie/yolov12)]
 
-* 
-
 
 ### Event-based Detection Methods 
+
+* [arXiv:2603.06228] **Low-latency Event-based Object Detection with Spatially-Sparse Linear Attention**,
+  Haiqing Hao, Zhipeng Sui, Rong Zou, Zijia Dai, Nikola Zubić, Davide Scaramuzza, Wenhui Wang
+  [[Paper](https://arxiv.org/abs/2603.06228)]  
 
 * [CVPR 2025] **Ev-3DOD: Pushing the Temporal Boundaries of 3D Object Detection with Event Cameras**,
   Hoonhee Cho, Jae-young Kang, Youngho Kim, Kuk-Jin Yoon
