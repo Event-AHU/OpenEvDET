@@ -9,6 +9,44 @@
   [[Code](https://github.com/TristanWH/DVS4PD)] 
 
 
+### Event-based Detection Benchmark Datasets 
+
+* [Tri-modal object detection using RGB, thermal, and event camera data](Tri-modal object detection using RGB, thermal, and event camera data)
+  [[Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Iaboni_Tri-Modal_Fusion_Transformers_for_UAV-based_Object_Detection_CVPR_2026_paper.html)]
+  [[Code](https://github.com/radlab-sketch/trimodal-uav-det)]
+  
+* [CVPR 2024 Workshop, arXiv:2404.10540] **SEVD: Synthetic Event-based Vision Dataset for Ego and Fixed Traffic Perception**,
+  Manideep Reddy Aliminati, Bharatesh Chakravarthi, Aayush Atul Verma, Arpitsinh Vaghela, Hua Wei, Xuesong Zhou, Yezhou Yang 
+  [[Paper](https://arxiv.org/abs/2404.10540)] 
+  
+* [CVPR 2024] **eTraM: Event-based Traffic Monitoring Dataset**,
+  [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Verma_eTraM_Event-based_Traffic_Monitoring_Dataset_CVPR_2024_paper.pdf)]
+  [[Code](https://github.com/eventbasedvision/eTraM)] 
+
+* [[DSEC-Detection](https://github.com/uzh-rpg/dsec-det)]
+  Low Latency Automotive Vision with Event Cameras, Nature 2024;
+  DSEC: A Stereo Event Camera Dataset for Driving Scenarios, IEEE RAL 2021
+
+* [[GEN1 Automotive Detection](https://arxiv.org/pdf/2001.08499)]
+  A Large Scale Event-based Detection Dataset for Automotive
+
+* [[1 Mpx(1Megapixel Automotive Detection Dataset)](https://arxiv.org/abs/2009.13436)]
+  Learning to Detect Objects with a 1 Megapixel Event Camera
+
+* [[Pedestrian Detection Dataset](https://www.frontiersin.org/articles/10.3389/fnbot.2019.00038/full)]
+  Neuromorphic Vision Datasets for Pedestrian Detection, Action Recognition, and Fall Detection
+
+* [[N-Caltech101](https://www.garrickorchard.com/datasets/n-caltech101)]
+Converting Static Image Datasets to Spiking Neuromorphic Datasets Using Saccades
+
+* [[COCO](https://cocodataset.org/)]
+Microsoft COCO: Common Objects in Context
+
+* [[PKU-DAVIS-SOD Dataset](https://github.com/dianzl/SODFormer)]
+ SODFormer: Streaming Object Detection with Transformer Using Events and Frames
+
+* [[PKU-DDD17-CAR](http://sensors.ini.uzh.ch/databases.html)]
+  DDD17: End-To-End DAVIS Driving Dataset
 
 
 ### Representative Object Detectors 
@@ -171,41 +209,6 @@
 
 
 
-### Event-based Detection Benchmark Datasets 
-
-
-* [CVPR 2024 Workshop, arXiv:2404.10540] **SEVD: Synthetic Event-based Vision Dataset for Ego and Fixed Traffic Perception**,
-  Manideep Reddy Aliminati, Bharatesh Chakravarthi, Aayush Atul Verma, Arpitsinh Vaghela, Hua Wei, Xuesong Zhou, Yezhou Yang 
-  [[Paper](https://arxiv.org/abs/2404.10540)] 
-  
-* [CVPR 2024] **eTraM: Event-based Traffic Monitoring Dataset**,
-  [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Verma_eTraM_Event-based_Traffic_Monitoring_Dataset_CVPR_2024_paper.pdf)]
-  [[Code](https://github.com/eventbasedvision/eTraM)] 
-
-* [[DSEC-Detection](https://github.com/uzh-rpg/dsec-det)]
-  Low Latency Automotive Vision with Event Cameras, Nature 2024;
-  DSEC: A Stereo Event Camera Dataset for Driving Scenarios, IEEE RAL 2021
-
-* [[GEN1 Automotive Detection](https://arxiv.org/pdf/2001.08499)]
-  A Large Scale Event-based Detection Dataset for Automotive
-
-* [[1 Mpx(1Megapixel Automotive Detection Dataset)](https://arxiv.org/abs/2009.13436)]
-  Learning to Detect Objects with a 1 Megapixel Event Camera
-
-* [[Pedestrian Detection Dataset](https://www.frontiersin.org/articles/10.3389/fnbot.2019.00038/full)]
-  Neuromorphic Vision Datasets for Pedestrian Detection, Action Recognition, and Fall Detection
-
-* [[N-Caltech101](https://www.garrickorchard.com/datasets/n-caltech101)]
-Converting Static Image Datasets to Spiking Neuromorphic Datasets Using Saccades
-
-* [[COCO](https://cocodataset.org/)]
-Microsoft COCO: Common Objects in Context
-
-* [[PKU-DAVIS-SOD Dataset](https://github.com/dianzl/SODFormer)]
- SODFormer: Streaming Object Detection with Transformer Using Events and Frames
-
-* [[PKU-DDD17-CAR](http://sensors.ini.uzh.ch/databases.html)]
-  DDD17: End-To-End DAVIS Driving Dataset
 
 
 
