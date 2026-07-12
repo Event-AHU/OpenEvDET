@@ -11,7 +11,7 @@
 
 ### Event-based Detection Benchmark Datasets 
 
-* [Tri-modal object detection using RGB, thermal, and event camera data](Tri-modal object detection using RGB, thermal, and event camera data)
+* [**Tri-modal object detection using RGB, thermal, and event camera data**] 
   [[Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Iaboni_Tri-Modal_Fusion_Transformers_for_UAV-based_Object_Detection_CVPR_2026_paper.html)]
   [[Code](https://github.com/radlab-sketch/trimodal-uav-det)]
   
