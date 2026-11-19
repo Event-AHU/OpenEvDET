@@ -30,7 +30,10 @@
 
 * [ICCV 2025] Event-based Tiny Object Detection: A Benchmark Dataset and Baseline
   [[Paper](https://arxiv.org/abs/2506.23575)] 
-  [[Code](https://github.com/ChenYichen9527/Ev-UAV)] 
+  [[Code](https://github.com/ChenYichen9527/Ev-UAV)]
+
+## :dart:  Best Checkpoints
+[Baidu Netdisk](https://pan.baidu.com/s/1gecegQ79WelmNBpFkKONww?pwd=gfm2 )
 
 
 ## :dart:  Works Maintained in this GitHub 
