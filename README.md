@@ -33,8 +33,8 @@
   [[Code](https://github.com/ChenYichen9527/Ev-UAV)]
 
 ## :dart:  Best Checkpoints
-* [Mvheat][Baidu Netdisk](https://pan.baidu.com/s/1S-euXnbvD74OHl2AB_V6yw?pwd=2s87)
-* [Cveheat][Baidu Netdisk](https://pan.baidu.com/s/1Mgypp14MLBJmUzpyPjArtg?pwd=dj86)
+* [Mvheat] : [Baidu Netdisk](https://pan.baidu.com/s/1S-euXnbvD74OHl2AB_V6yw?pwd=2s87)
+* [Cveheat] : [Baidu Netdisk](https://pan.baidu.com/s/1Mgypp14MLBJmUzpyPjArtg?pwd=dj86)
 
 
 ## :dart:  Works Maintained in this GitHub 
