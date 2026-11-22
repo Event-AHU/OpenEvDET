@@ -7,7 +7,7 @@
 
 ## :dart:  Update Logs 
 
-* [2025.05.20] **Dynamic Graph Induced Contour-aware Heat Conduction Network for Event-based Object Detection** is released online [[arXiv](https://arxiv.org/abs/2505.12908)]
+* [2025.05.20] **Dynamic Graph Induced Contour-aware Heat Conduction Network for Event-based Object Detection** is released online [[arXiv](https://arxiv.org/abs/2505.12908)] IEEE Transactions on Circuits and Systems for Video Technology (TCSVT 2026) 
 
 * [2025.02.27] [[**MvHeat-DET**](https://arxiv.org/abs/2412.06647)] is accepted by CVPR 2025!
 
